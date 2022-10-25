@@ -1,2 +1,2 @@
-# Sub_Elements.js
-The most simple JavaScript package to split text into sub elements as specified directly in the parent elements id in html : )  
+# SubText.js
+A JavaScript cdn to split text into sub elements with all functionalities of gsap splittext plugin for free and with inline html made more easy : )
